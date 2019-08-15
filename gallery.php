@@ -4,7 +4,7 @@
   <title>Assignment</title>
   </head>
 <body>
-  <h1>Rivas Photo Gallery</h1>
+  <h1>Allen Photo Gallery</h1>
   <h2>List of photos</h2>
   <nav>
     <ul>
