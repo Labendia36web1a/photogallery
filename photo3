@@ -1,0 +1,8 @@
+<html>
+<head>
+<head>Photo 1</head>
+<body bgcolor="black">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYsrI3SYgc-eMBeCMAm-K8eGekKgOhCKkFlkrZFhMGGc3UN1j" width="800" height="600">
+  <a href="index.php">Back to home</a> <a href="photo2.php">Next Photo</a>
+</body>
+</html>
